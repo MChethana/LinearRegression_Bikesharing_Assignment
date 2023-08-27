@@ -43,6 +43,8 @@ day.csv have the following fields:
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
 
+## Disclaimer : Need to place day.csv folder to run the code , HTML page is attached for the evaluation
+
 ## Technologies Used
 - Python
 - Numpy
