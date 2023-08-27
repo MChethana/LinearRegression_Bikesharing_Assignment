@@ -44,15 +44,15 @@ day.csv have the following fields:
 	- cnt: count of total rental bikes including both casual and registered
 
 ## Technologies Used
-Python
-Numpy
-Pandas
-matplotlib
-seaborn
-plotly
-missingno
-statsmodels
-sklearn
+- Python
+- Numpy
+- Pandas
+- matplotlib
+- seaborn
+- plotly
+- missingno
+- statsmodels
+- sklearn
 
 ## Conclusions
 - Used Linear Regression as output is continous variable
